@@ -1,8 +1,7 @@
 ## Installation
 
 After cloning the repository, install dependencies:
-```sh
-cd <project folder>/material-ui/examples/browserify-gulp-example
+```
 npm install
 ```
 
