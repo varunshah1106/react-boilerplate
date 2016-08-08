@@ -30,3 +30,11 @@ Copies all of the files from /src/www to the build folder.
 ### [gulp_starter](https://github.com/greypants/gulp-starter)
 
 A useful repository that explains how many of gulp's features work and contains an example project to get familiar with it. We use this example to construct our own project.
+
+## material-ui
+
+https://github.com/callemall/material-ui
+
+## color schems
+
+https://flatuicolors.com
