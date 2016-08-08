@@ -1,6 +1,6 @@
 {
-  "name": "React barebones boilerplate",
-  "version": "0.15.0",
+  "name": "react-boilerplate",
+  "version": "0.0.1",
   "description": "Sample project that uses Material-UI, ReactJS, gulp, browserify",
   "scripts": {
     "start": "gulp"
